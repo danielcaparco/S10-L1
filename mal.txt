@@ -1,0 +1,8 @@
+Nel primo screen troviamo le librerie importate.
+KERNEL32 contiene le funzioni principali per interagire con il sistema operativo.
+ADVAPI32 contiene le funzioni per ineteragire con i servizi e i registri del sitstema operativo.
+MSVCRT contiene funzioni per la manipolazione della memoria.
+WININET contiene funzioni per implementare i protocolli di rete.
+Nel secondo screen torviamo le sezioni, possiamo vedere che ne sono tre ma non il nome.
+Dall'analisi statica basica non riusciamo ad ottenere molte informazioni perchè il malware ce le nasconde.
+Però dalle librerie imporate sembra un runtime.
